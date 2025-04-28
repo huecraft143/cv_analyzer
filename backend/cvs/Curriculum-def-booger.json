@@ -1,0 +1,99 @@
+{
+  "name": "Mattia Palano",
+  "email": "mattiapalano11@gmail.com",
+  "phone": "+39 3935062140",
+  "address": "Via Marco Biagi 8, 72100, Brindisi, Italy (Home)",
+  "languages": {
+    "motherTongue": {
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "english": {
+      "understanding": "C1",
+      "speaking": "C1",
+      "writing": "C1",
+      "listening": "C1",
+      "reading": "C1",
+      "spokenProduction": "C1",
+      "spokenInteraction": "C1"
+    },
+    "portuguese": {
+      "understanding": "B1",
+      "speaking": "B1",
+      "writing": "A2",
+      "listening": "A2",
+      "reading": "A2",
+      "spokenProduction": "A2",
+      "spokenInteraction": "A2"
+    }
+  },
+  "skills": {
+    "hardSkills": [
+      "PyTorch",
+      "Pandas",
+      "OpenCV",
+      "scikit-learn",
+      "Gensim",
+      "TensorFlow",
+      "Numpy",
+      "Matplotlib",
+      "Keras",
+      "Librosa",
+      "Seaborn",
+      "Python",
+      "SQL",
+      "Java",
+      "C++",
+      "Git",
+      "Jupyter Notebooks",
+      "Docker",
+      "GitHub",
+      "Power BI",
+      "Visual Studio Code",
+      "PyCharm",
+      "Slack",
+      "C Lion",
+      "JetBrains Intellij Idea"
+    ],
+    "softSkills": {
+      "communication": "",
+      "leadership": "",
+      "problemSolving": ""
+    }
+  },
+  "workExperience": [
+    {
+      "company": "",
+      "position": "",
+      "period": "15/09/2018 - 15/07/2021",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "university": "Università degli studi Bari Aldo Moro",
+      "fieldOfStudy": "Information and Communication Technologies",
+      "period": "15/09/2018 - 15/07/2021",
+      "grade": "105",
+      "level": "EQF level 6",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "Università degli studi di Milano",
+      "fieldOfStudy": "Computer Science",
+      "period": "15/09/2021 - 15/07/2024",
+      "grade": "105",
+      "level": "EQF level 7",
+      "thesis": "Audio Based Covid-19 detection via Cough Analysis",
+      "description": "",
+      "acquiredSkills": ""
+    }
+  ]
+}

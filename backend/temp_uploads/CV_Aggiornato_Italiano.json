@@ -1,0 +1,170 @@
+{
+  "name": "Mattia Palano",
+  "email": "mattiapalano11@gmail.com",
+  "phone": "+393935062140",
+  "address": "",
+  "languages": {
+    "italian": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "english": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "portuguese": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    }
+  },
+  "skills": {
+    "hardSkills": [
+      "Data analysis",
+      "Python",
+      "Pandas",
+      "Object Oriented Programming",
+      "Java",
+      "C++",
+      "Angular",
+      "PyTorch",
+      "SkLearn",
+      "Auto-SkLearn",
+      "Git",
+      "Gitpod",
+      "GitHub",
+      "Suite office",
+      "SQL"
+    ],
+    "softSkills": [
+      "Communication",
+      "Leadership",
+      "Problem solving"
+    ]
+  },
+  "workExperience": [
+    {
+      "company": "TR2 Visual Analytics Company",
+      "position": "",
+      "period": "",
+      "description": ""
+    },
+    {
+      "company": "Università degli studi di Bari Aldo Moro",
+      "position": "",
+      "period": "",
+      "description": "Su selezione e test, esperienza di affiancamento docente in laboratorio nel corso degli studi in sede."
+    },
+    {
+      "company": "ITIS Molinari Milano",
+      "position": "",
+      "period": "",
+      "description": ""
+    },
+    {
+      "company": "Università degli studi di Bari Aldo Moro",
+      "position": "",
+      "period": "",
+      "description": "Laurea triennale in Informatica. Su candidatura spontanea, partecipazione e primo posto al suddetto progetto. Realizzazione in Java di un’avventura testuale in gruppo in occasione dell’esame inerente alla programmazione orientata agli oggetti con altri studenti di varie facoltà informatiche. Primi classificati."
+    },
+    {
+      "company": "ITIS Molinari",
+      "position": "",
+      "period": "",
+      "description": ""
+    },
+    {
+      "company": "ITIS Molinari",
+      "position": "",
+      "period": "",
+      "description": ""
+    },
+    {
+      "company": "Università degli studi di Bari Aldo Moro",
+      "position": "",
+      "period": "",
+      "description": "Su candidatura spontanea, partecipazione e primo posto al suddetto progetto. Realizzazione in Java di un’avventura testuale in gruppo in occasione dell’esame inerente alla programmazione orientata agli oggetti con altri studenti di varie facoltà informatiche. Primi classificati."
+    },
+    {
+      "company": "ITIS Molinari",
+      "position": "",
+      "period": "",
+      "description": ""
+    },
+    {
+      "company": "Villaggio Isamar, Chioggia",
+      "position": "",
+      "period": "",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "Su selezione e test, esperienza di affiancamento docente in laboratorio nel corso degli studi in sede.",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "Su candidatura spontanea, partecipazione e primo posto al suddetto progetto. Realizzazione in Java di un’avventura testuale in gruppo in occasione dell’esame inerente alla programmazione orientata agli oggetti con altri studenti di varie facoltà informatiche. Primi classificati.",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "Su candidatura spontanea, partecipazione e primo posto al suddetto progetto. Realizzazione in Java di un’avventura testuale in gruppo in occasione dell’esame inerente alla programmazione orientata agli oggetti con altri studenti di varie facoltà informatiche. Primi classificati.",
+      "acquiredSkills": ""
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "John Christopher Key",
+  "email": "john.c.key@email.com",
+  "phone": "(123) 456-7890",
+  "address": "",
+  "languages": {
+    "english": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    }
+  },
+  "skills": {
+    "hardSkills": [],
+    "softSkills": {}
+  },
+  "workExperience": [],
+  "education": [
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "1/2010",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "8/2009",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "8/2008",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "12/2005",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "5/2001",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    }
+  ]
+}

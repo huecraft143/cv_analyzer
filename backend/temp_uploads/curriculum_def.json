@@ -1,0 +1,65 @@
+{
+  "name": "Mattia Palano",
+  "email": "mattiapalano11@gmail.com",
+  "phone": "+39 3935062140",
+  "address": "Via Marco Biagi 8, 72100, Brindisi, Italy (Home)",
+  "languages": {
+    "italian": {
+      "level": "",
+      "understanding": "C1",
+      "speaking": "C1",
+      "writing": "C1",
+      "listening": "C1",
+      "reading": "C1",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "english": {
+      "level": "",
+      "understanding": "C1",
+      "speaking": "C1",
+      "writing": "C1",
+      "listening": "C1",
+      "reading": "C1",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "portuguese": {
+      "level": "",
+      "understanding": "B1",
+      "speaking": "B1",
+      "writing": "A2",
+      "listening": "A2",
+      "reading": "A2",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    }
+  },
+  "skills": {
+    "hardSkills": [],
+    "softSkills": {}
+  },
+  "workExperience": [],
+  "education": [
+    {
+      "university": "Università degli studi di Milano",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "105",
+      "level": "EQF level 7",
+      "thesis": "Audio Based Covid-19 detection via Cough Analysis",
+      "description": "",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "Università degli studi Bari Aldo Moro",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "105",
+      "level": "EQF level 6",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Mattia Palano",
+  "email": "mattiapalano11@gmail.com",
+  "phone": "+393935062140",
+  "address": "",
+  "languages": {
+    "italian": {
+      "level": "MADRELINGUA",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "english": {
+      "level": "B2/C1",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "portuguese": {
+      "level": "Principiante",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    }
+  },
+  "skills": {
+    "hardSkills": [
+      "Artificial Intelligence",
+      "Python",
+      "Pandas",
+      "Object Oriented Programming",
+      "Java",
+      "C++",
+      "Angular",
+      "PyTorch",
+      "SkLearn",
+      "Auto-SkLearn",
+      "Git",
+      "Gitpod",
+      "GitHub",
+      "Suite office"
+    ],
+    "softSkills": [
+      "Communication",
+      "Adaptability",
+      "Teamwork",
+      "Problem solving",
+      "Leadership"
+    ]
+  },
+  "workExperience": [
+    {
+      "company": "Village Isamar, Chioggia",
+      "position": "Co-Responsable attrezzatura audio-video e tecnico del suono e delle luci",
+      "period": "",
+      "description": "Responsibilities included communication, adaptability, time management, and teamwork. Moderate use of Microsoft Suite for task organization and report generation."
+    },
+    {
+      "company": "Università degli studi di Bari Aldo Moro",
+      "position": "Tutor di Laboratorio",
+      "period": "",
+      "description": "First-place winner of the project in Java programming, working in a team with students from different computer science faculties. Key skills included communication, time management, and teamwork."
+    },
+    {
+      "company": "ITIS Molinari",
+      "position": "Cattedra in Sistemi e reti, Informatica, Tecnologie e progettazione di Sistemi informatici per terze, quarte e quinte",
+      "period": "",
+      "description": "Responsibilities included communication, time management, and teamwork. Workshop and lesson delivery for students in grades 3, 4, and 5 in computer science."
+    },
+    {
+      "company": "Università degli studi di Milano",
+      "position": "Cattedra in Sistemi e reti, Informatica, Tecnologie e progettazione di Sistemi informatici per terze, quarte e quinte",
+      "period": "",
+      "description": "Workshop and lesson delivery for students in grades 3, 4, and 5 in computer science."
+    }
+  ],
+  "education": [
+    {
+      "university": "Università degli studi di Milano",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "Experience in lab assistant work and laboratory sessions during the course of study.",
+      "acquiredSkills": ""
+    },
+    {
+      "university": "Università degli studi di Bari Aldo Moro",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "Experience in lab assistant work and laboratory sessions during the course of study.",
+      "acquiredSkills": ""
+    }
+  ]
+}

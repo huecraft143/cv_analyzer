@@ -1,0 +1,135 @@
+{
+  "name": "Software Engineering Co-op",
+  "email": "",
+  "phone": "",
+  "address": "",
+  "languages": {
+    "mysql": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "postgresql": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "sqlite": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "nosql": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "leveldb": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "css": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "html": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "xml": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "markdown": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "regular expression": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    },
+    "sass": {
+      "level": "",
+      "understanding": "",
+      "speaking": "",
+      "writing": "",
+      "listening": "",
+      "reading": "",
+      "spokenProduction": "",
+      "spokenInteraction": ""
+    }
+  },
+  "skills": {
+    "hardSkills": [],
+    "softSkills": {}
+  },
+  "workExperience": [],
+  "education": [
+    {
+      "university": "",
+      "fieldOfStudy": "",
+      "period": "",
+      "grade": "",
+      "level": "",
+      "thesis": "",
+      "description": "",
+      "acquiredSkills": ""
+    }
+  ]
+}

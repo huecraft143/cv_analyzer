@@ -1,0 +1,122 @@
+--- Pagina 1 ---
+Mattia Palano 
+Date of birth: 11/11/1999
+ Place of birth: Brindisi, Italy 
+ Nationality: Italian
+ Phone number: 
+(+39) 3935062140 (Home) 
+ Email address: mattiapalano11@gmail.com 
+ 
+Address: Via Marco Biagi 8, 72100, Brindisi, Italy (Home) 
+ 
+15/09/2018 – 15/07/2021 Bari, Italy 
+BACHELOR'S DEGREE IN COMPUTER SCIENCE Università degli studi Bari Aldo Moro 
+• Developed proficiency in various programming languages and paradigms, enabling the design and
+implementation of efficient software solutions.
+• Engaged in collaborative coding projects, enhancing teamwork and version control skills.
+• Designed and analyzed algorithms to solve complex computational problems, focusing on optimization and
+efficiency.
+• Applied theoretical knowledge to practical scenarios, bridging the gap between abstract concepts and real-world
+applications.
+• Acquired skills in designing, implementing, and managing databases, ensuring data integrity and security.
+• Explored foundational concepts in AI, including machine learning algorithms and their applications.
+• Participated in projects that applied AI techniques to solve practical problems.
+• Led and contributed to team-based projects, honing project management and collaborative skills.
+• Utilized agile methodologies to adapt to evolving project requirements and ensure timely delivery.
+Website https://www.uniba.it/en 
+Field of study Information and Communication Technologies 
+Final grade 105 
+Level in EQF EQF level 6 
+15/09/2021 – 15/07/2024 Milano, Italy 
+MASTER'S DEGREE IN COMPUTER SCIENCE Università degli studi di Milano 
+• Advanced Artificial Intelligence Techniques:
+• Developed and implemented sophisticated AI algorithms, enhancing system capabilities across various
+applications.
+• Engaged in research to innovate and improve existing AI methodologies.
+• Machine Learning & Pattern Recognition:
+• Specialized in audio pattern recognition, developing models to accurately identify and classify audio
+signals.
+• Applied machine learning techniques to extract meaningful patterns from complex datasets.
+• Computer Vision & Image Processing:
+• Designed and implemented computer vision algorithms for image analysis and object recognition.
+• Developed applications capable of interpreting and processing visual information from the environment.
+• Information Retrieval Systems:
+• Engineered intelligent systems for efficient data retrieval, enhancing user experience and data
+accessibility.
+• Utilized natural language processing techniques to improve search accuracy and relevance.
+• Natural Language Processing (NLP):
+• Developed algorithms for understanding and generating human language, facilitating human-computer
+interaction.
+• Worked on projects involving sentiment analysis, machine translation, and text summarization.
+• Data Analytics & Big Data:
+• Analyzed large datasets to uncover trends and insights, supporting data-driven decision-making
+processes.
+• Employed statistical methods and machine learning models to interpret complex data structures.
+• Ethical and Legal Considerations in AI:
+• Studied the ethical implications and legal frameworks surrounding AI deployment.
+• Ensured AI applications adhered to societal norms and regulatory standards.
+• Project Management & Collaboration:
+• Led AI-focused projects, coordinating with cross-functional teams to achieve project objectives.
+• Managed project timelines, resources, and deliverables to ensure successful outcomes.
+EDUCATION AND TRAINING
+
+
+--- Pagina 2 ---
+Website https://www.unimi.it/en 
+Final grade 105 
+Level in EQF EQF level 7 
+Thesis Audio Based Covid-19 detection via Cough Analysis 
+Mother tongue(s):  ITALIAN 
+Other language(s):
+  
+UNDERSTANDING
+SPEAKING
+WRITING
+Listening
+Reading
+Spoken production Spoken interaction
+ENGLISH 
+C1
+C1
+C1
+C1
+C1
+PORTUGUESE 
+B1
+B1
+A2
+A2
+A2
+Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user 
+Libraries and Frameworks
+PyTorch
+ Pandas
+ OpenCV
+ scikit-learn
+ Gensim
+ TensorFlow
+ Numpy
+ Matplotlib
+ Keras
+ Librosa
+ 
+Seaborn 
+Programming Languages
+Python
+ SQL
+ Java
+ C++ 
+Development Enviroments
+Git
+ Jupyter Notebooks
+ Docker
+ GitHub
+ Power BI
+ Visual Studio Code
+ PyCharm
+ Slack
+ C Lion
+ 
+JetBrains Intellij Idea 
+LANGUAGE SKILLS 
+DIGITAL SKILLS
